@@ -1,6 +1,5 @@
 # Import python packages
 import streamlit as st
-streamlit.title('My parents healthy Diner')
 from snowflake.snowpark.functions import col
 
 
